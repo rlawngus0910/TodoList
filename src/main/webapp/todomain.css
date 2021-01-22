@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+header .maintitle{
+	transform:rotate(-30deg);
+	display:inline-block;
+	margin-top:60px;
+	font-size:30px;
+	font-weight:bold;
+}
+header .newtodo{
+	display:inline-block;
+	float:right;
+	margin-top:80px;
+	margin-right:255px;
+	padding:5px 30px 5px 30px;
+	background-color:deepskyblue;
+	color:white;
+}
+section{
+	margin-left:200px;
+	margin-top:20px;
+}
+ul{
+	margin-top:80px;
+	float:left;
+	list-style:none;
+}
+li.navtitle{
+    width: 300px;
+    padding: 20px 0px 20px 10px;
+    background-color: #0B3861;
+    color: white;
+}
+li.navcontent{
+    width: 300px;
+    margin-top:20px;
+    padding: 10px 0px 10px 10px;
+    background-color: skyblue;
+    color: black;
+}
+li p{
+	font-size:12px;
+}
+

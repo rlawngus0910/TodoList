@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+.title {
+    margin-left: 45%;
+    margin-top: 100px;
+    font-size: 45px;
+}
+
+.inputtext {
+    margin-top: 45px;
+    margin-left: 400px;
+}
+div.buttonset{
+	margin-top:20px;
+}
+button.sumb{
+	float:right;
+	background-color: deepskyblue;
+    color: white;
+    padding: 5px;
+    width: 120px;
+    margin-right: 20px;
+}
+button.erase{
+	float:right;
+	margin-right:390px;
+	padding: 5px;
+    width: 120px;
+    background-color: deepskyblue;
+    color: white;
+}
+button.prev{
+	background-color: white;
+    color: black;
+    padding: 5px;
+    width: 120px;
+}
