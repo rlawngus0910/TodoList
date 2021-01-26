@@ -24,20 +24,20 @@
 ### 💻 Screenshots
 
 ![todolist 시연 영상1](https://user-images.githubusercontent.com/57345435/105869000-1f093980-603a-11eb-98f7-616bc062af8f.gif)
-
+![todolist 시연 영상2](https://user-images.githubusercontent.com/57345435/105869157-46f89d00-603a-11eb-86ef-415b61b246b0.gif)
 
 
 ### :white_check_mark: Result
 
 #### BackEnd
 
-![image-20210127003813137](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20210127003813137.png)
+![image](https://user-images.githubusercontent.com/57345435/105869284-6abbe300-603a-11eb-8901-a353b0369dce.png)
 
 
 
 #### FrontEnd
 
-### ![image-20210127004602977](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20210127004602977.png)
+![image](https://user-images.githubusercontent.com/57345435/105869205-5546b900-603a-11eb-83fb-6cc3c15f0aa1.png)
 
 
 
