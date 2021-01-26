@@ -23,9 +23,7 @@
 
 ### 💻 Screenshots
 
-![todolist 시연 영상1](C:\Users\User\Downloads\todolist 시연 영상1.gif)
-
-![todolist 시연 영상2](C:\Users\User\Downloads\todolist 시연 영상2.gif)
+![Uploading todolist 시연 영상1.gif…]()
 
 
 
