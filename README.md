@@ -23,7 +23,7 @@
 
 ### 💻 Screenshots
 
-![Uploading todolist 시연 영상1.gif…]()
+![todolist 시연 영상1](https://user-images.githubusercontent.com/57345435/105869000-1f093980-603a-11eb-98f7-616bc062af8f.gif)
 
 
 
